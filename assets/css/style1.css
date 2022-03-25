@@ -96,7 +96,7 @@
 }
 
 .update-bg-container {
-    background-color: pink;
+    background-color: black;
 }
 
 .update-image1 {
@@ -382,3 +382,8 @@ span {
     padding: 15px;
     padding-left: 100px;
 }
+
+.btn-pink {
+    background-color: #d72986;
+    color: black;
+  }
