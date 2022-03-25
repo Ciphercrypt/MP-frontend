@@ -2,12 +2,12 @@
 
 /* NAVBAR - 1 */
 
-.cowin-navbar-1 {
+.mp-police1-navbar-1 {
     color: white;
     font-family: "Roboto";
 }
 
-.cowin-navbar-1-anchor-buttons {
+.mp-police1-navbar-1-anchor-buttons {
     color: white;
     border-style: solid;
     background-color: black;
@@ -16,19 +16,19 @@
     width: 50px;
 }
 
-#cowin-navbar-1-anchor-buttons {
+#mp-police1-navbar-1-anchor-buttons {
     width: 100px;
     border-color: black;
 }
 
 /* NAVBAR - 2 */
 
-.cowin-navbar-2-image {
+.mp-police1-navbar-2-image {
     height: 100px;
     width: 150px;
 }
 
-.cowin-navbar-2-button {
+.mp-police1-navbar-2-button {
     border-style: solid;
     border-color: white;
     background-color: black;
@@ -40,29 +40,29 @@
 
 /* CAROUSEL */
 
-.cowin-carousel-image {
+.mp-police1-carousel-image {
     height: 80vh;
 }
 
-.cowin-carousel-image-3 {
+.mp-police1-carousel-image-3 {
     background-image: url("https://www.worldatlas.com/r/w1200/upload/9e/9d/d9/country-flags-green.jpg");
     background-size: cover;
     height: 80vh;
 }
 
-.cowin-carousel-image-3-card {
+.mp-police1-carousel-image-3-card {
     background-color: transparent;
     color: white;
     margin: 100px;
     font-family: "Roboto";
 }
 
-.cowin-carousel-image-3-card-heading {
+.mp-police1-carousel-image-3-card-heading {
     font-weight: bold;
     font-size: 40px;
 }
 
-.cowin-carousel-image-3-card-button {
+.mp-police1-carousel-image-3-card-button {
     width: 150px;
     height: 45px;
     border-radius: 40px;
@@ -161,19 +161,19 @@ span {
 
 /* VACCINATION  CENTER */
 
-.cowin-vaccination-center-card {
+.mp-police1-vaccination-center-card {
     height: 20px;
 }
 
-.cowin-vaccination-center-card-span {
+.mp-police1-vaccination-center-card-span {
     color: blue;
 }
 
-.cowin-vaccination-center-line {
+.mp-police1-vaccination-center-line {
     width: 50vw;
 }
 
-.cowin-vaccination-center-list {
+.mp-police1-vaccination-center-list {
     height: 35px;
     width: 200px;
     border-radius: 20px;
@@ -181,7 +181,7 @@ span {
     margin-right: 10px;
 }
 
-.cowin-vaccination-center-button {
+.mp-police1-vaccination-center-button {
     color: white;
     background-color: blue;
     border-radius: 30px;
@@ -191,19 +191,19 @@ span {
     border-color: blue;
 }
 
-/* WHAT'S NEW ON COWIN SECTION */
+/* WHAT'S NEW ON mp-police1 SECTION */
 
-.cowin-wnc-section-bg-container {
+.mp-police1-wnc-section-bg-container {
     background-color: #242226;
     color: white;
 }
 
-.cowin-wnc-section-heading {
+.mp-police1-wnc-section-heading {
     text-align: center;
     margin-right: 50px;
 }
 
-.cowin-wnc-section-bg-container-line {
+.mp-police1-wnc-section-bg-container-line {
     color: white;
     border-width: 1px;
     border-style: solid;
@@ -211,11 +211,11 @@ span {
 
 /* CERTIFICATION SECTION */
 
-.cowin-certification-bg-container {
+.mp-police1-certification-bg-container {
     background-color: #f0f5f4;
 }
 
-.cowin-certification-button {
+.mp-police1-certification-button {
     width: 200px;
     border-radius: 20px;
     color: blue;
@@ -224,18 +224,18 @@ span {
     border-width: 2px;
 }
 
-#cowin-certification-button {
+#mp-police1-certification-button {
     color: white;
     background-color: blue;
 }
 
 /* CARD SECTION */
 
-.cowin-card-section-bg-container {
+.mp-police1-card-section-bg-container {
     background-color: #f0f5f4;
 }
 
-.cowin-card-numbers {
+.mp-police1-card-numbers {
     height: 60px;
     width: 60px;
     background-color: white;
@@ -245,14 +245,14 @@ span {
 
 }
 
-.cowin-card {
+.mp-police1-card {
     background-color: white;
     border-radius: 15px;
     padding: 10px;
     height: 250px;
 }
 
-.cowin-card-image {
+.mp-police1-card-image {
     height: 150px;
     border-radius: 15px;
 }
@@ -335,12 +335,12 @@ span {
 
 /* PARTNER SECTION */
 
-.cowin-partner-logo {
+.mp-police1-partner-logo {
     height: 60px;
     width: 180px;
 }
 
-.cowin-partner-content {
+.mp-police1-partner-content {
     color: blue;
 }
 
